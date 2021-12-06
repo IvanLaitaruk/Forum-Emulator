@@ -1,0 +1,8 @@
+﻿  Process Manager.cpp
+C:\Users\ВАНЯ\source\repos\Process Manager\Process Manager\Process Manager.cpp(43,5): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ВАНЯ\source\repos\Process Manager\Process Manager\Process Manager.cpp(66,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ВАНЯ\source\repos\Process Manager\Process Manager\Process Manager.cpp(80,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ВАНЯ\source\repos\Process Manager\Process Manager\Process Manager.cpp(86,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ВАНЯ\source\repos\Process Manager\Process Manager\Process Manager.cpp(92,20): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+C:\Users\ВАНЯ\source\repos\Process Manager\Process Manager\Process Manager.cpp(111,26): warning C4018: '<': signed/unsigned mismatch
+  Process Manager.vcxproj -> C:\Users\ВАНЯ\source\repos\Process Manager\Debug\Process Manager.exe
